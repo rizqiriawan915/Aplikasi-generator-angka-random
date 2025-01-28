@@ -1,0 +1,16 @@
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\bin\Debug\net8.0-windows\Aplikasi Generator Angka Random.exe
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\bin\Debug\net8.0-windows\Aplikasi Generator Angka Random.deps.json
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\bin\Debug\net8.0-windows\Aplikasi Generator Angka Random.runtimeconfig.json
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\bin\Debug\net8.0-windows\Aplikasi Generator Angka Random.dll
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\bin\Debug\net8.0-windows\Aplikasi Generator Angka Random.pdb
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi_Generator_Angka_Random.Form1.resources
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.csproj.GenerateResource.cache
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.AssemblyInfoInputs.cache
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.AssemblyInfo.cs
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.csproj.CoreCompileInputs.cache
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.dll
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\refint\Aplikasi Generator Angka Random.dll
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.pdb
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\Aplikasi Generator Angka Random.genruntimeconfig.cache
+C:\Users\Rizqi\Documents\C#\Aplikasi Generator Angka Random\Aplikasi Generator Angka Random\obj\Debug\net8.0-windows\ref\Aplikasi Generator Angka Random.dll
